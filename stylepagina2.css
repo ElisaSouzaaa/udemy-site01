@@ -57,7 +57,7 @@ nav a.bts_destaque{
     height: 640px;
     color: rgb(255, 255, 255);
     background-color: rgb(164, 164, 164);
-    background-image: url("../img/Home.png");
+    background-image: url("./img/Home.png");
     background-repeat: no-repeat;
     background-position: center;
 }
@@ -91,7 +91,7 @@ nav a.bts_destaque{
 
 .sec03{
     background-color: rgb(239, 243, 249);
-    background-image: url("../img/Home2.png");
+    background-image: url("./img/Home2.png");
     background-position: right;
     background-repeat: no-repeat;
     height: 664px;
